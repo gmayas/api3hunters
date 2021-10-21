@@ -31,6 +31,9 @@ Tecnologías a usar:
 ● NodeJS
 ● Axios o Fetch
 
+Solo debe de dar click en la opción del nav bar Ejercicio 01, espere y vera el resultado.
+
+![](/images/img02.png)
 
 
 `© 2021 Copyright: GMayaS C:\>Desarrollo en Sistemas.`
