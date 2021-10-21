@@ -31,10 +31,52 @@ Tecnologías a usar:
 ● NodeJS
 ● Axios o Fetch
 
-Solo debe de dar click en la opción del nav bar Ejercicio 01, espere y vera el resultado.
+Solo debe de dar click en la opción del NavBar Ejercicio 01, espere y vera el resultado.
 
 ![](/images/img02.png)
 
+### Ejercicio 02.
+
+De la siguiente base de datos MongoBD, realizar un API (REST) para exponer los los siguiente endpoints :
+
+Conexión db: mongodb+srv://admin:pQo82ujIYNptFBxG@cluster0.dzxo9.mongodb.net/atlantiaDev?retryWrites=true&w=majority
+Entidad: User
+
+Propiedades: name, age, city
+
+● GET USER (Obtener todos los usuarios)
+● POST USER (Agregar usuario y regresar su información)
+
+Tecnologías a usar:
+● NodeJS
+● Express o NestJS
+● Mongoose
+
+En este ejercicio, se tomó la decisión de mostrar el resultado de los procesos en este mismo FrontEnd, de click en la opción del NavBar Ejercicio 01, vera la siguiente vista: 
+
+● GET USER (Obtener todos los usuarios)
+
+![](/images/img03.png)
+
+● POST USER (Agregar usuario y regresar su información)
+
+Para realizar el POST USER (Agregar usuario y regresar su información), de click al botón Add new y vera la siguiente vista:
+
+![](/images/img04.png)
+
+En esta vista podar capturar name, age and city, solo de click en el botón Save, esper el proceso, y lo regresa a la vista anterior donde le muestra el registro adicionado.
+
+![](/images/img05.png)
+
+Para ver la segunda parte de este ejercicio debe entrar al proyecto 3Hunters BackEnd, solo de click el siguiente link:
+
+En la sección README encontrara su descripción  
+
+Para ver en producción 3Hunters BackEnd, solo de click el siguiente link:
+
+https://apirest3hunters.herokuapp.com/
+
+![](/images/img06.png)
 
 `© 2021 Copyright: GMayaS C:\>Desarrollo en Sistemas.`
 
