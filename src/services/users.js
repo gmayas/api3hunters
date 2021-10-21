@@ -2,7 +2,8 @@
 const axios = require('axios');
 
 // URL de Api Rest
-let restServerUrl = "http://localhost:4000/users";
+let restServerUrl = "https://apirest3hunters.herokuapp.com/users";
+
 
 // Función que retorna la informacion de los usuarios (lista)
 const getUsers = async () => {
