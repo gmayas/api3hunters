@@ -54,7 +54,7 @@ Tecnologías a usar:
 
 NodeJS, Express o NestJS, Mongoose.
 
-En este ejercicio, se tomó la decisión de mostrar el resultado de los procesos en este mismo FrontEnd, de click en la opción del NavBar Ejercicio 01, vera la siguiente vista: 
+En este ejercicio, se tomó la decisión de mostrar el resultado de los procesos en este mismo FrontEnd, de click en la opción del NavBar Ejercicio 02, vera la siguiente vista: 
 
 GET USER (Obtener todos los usuarios).
 
@@ -66,11 +66,13 @@ Para realizar el POST USER (Agregar usuario y regresar su información), de clic
 
 ![](/images/img04.png)
 
-En esta vista podar capturar name, age and city, solo de click en el botón Save, esper el proceso, y lo regresa a la vista anterior donde le muestra el registro adicionado.
+En esta vista podra capturar name, age and city, solo de click en el botón Save, espere el proceso y lo regresa a la vista anterior donde le muestra el registro adicionado.
 
 ![](/images/img05.png)
 
-Para ver la segunda parte de este ejercicio debe entrar al proyecto 3Hunters BackEnd, solo de click el siguiente link:
+Para ver la segunda parte de este ejercicio, debe entrar al proyecto 3Hunters BackEnd, solo de click el siguiente link:
+
+https://github.com/gmayas/apirest3hunters.git
 
 En la sección README encontrara su descripción.  
 
