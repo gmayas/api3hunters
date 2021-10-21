@@ -39,9 +39,9 @@ Solo debe de dar click en la opción del NavBar Ejercicio 01, espere y vera el r
 
 ### Ejercicio 02.
 
-De la siguiente base de datos MongoBD, realizar un API (REST) para exponer los los siguiente endpoints :
+De la siguiente base de datos MongoBD, realizar un API (REST) para exponer los siguiente endpoints:
 
-Conexión db: mongodb+srv://admin:pQo82ujIYNptFBxG@cluster0.dzxo9.mongodb.net/atlantiaDev?retryWrites=true&w=majority
+Conexión db: "mongodb+srv://admin:pQo82ujIYNptFBxG@cluster0.dzxo9.mongodb.net/atlantiaDev?retryWrites=true&w=majority"
 
 Entidad: User.
 
@@ -54,7 +54,7 @@ Tecnologías a usar:
 
 NodeJS, Express o NestJS, Mongoose.
 
-En este ejercicio, se tomó la decisión de mostrar el resultado de los procesos en este mismo FrontEnd, de click en la opción del NavBar Ejercicio 02, vera la siguiente vista: 
+En este ejercicio se tomó la decisión de mostrar el resultado de los procesos en este mismo FrontEnd, de click en la opción del NavBar Ejercicio 02, vera la siguiente vista: 
 
 GET USER (Obtener todos los usuarios).
 
